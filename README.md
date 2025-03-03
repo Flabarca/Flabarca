@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 ¡Hola, soy Francisco!
 
-<!--
-**Flabarca/Flabarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mí
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería de Sistemas en la Universidad Autónoma de Perú 🎓. Apasionado por el desarrollo de videojuegos y las buenas prácticas de programación, siempre busco mejorar mis habilidades y crear experiencias interactivas memorables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tecnologías que uso
+
+Lenguajes: Java ☕ | C# ⚙️
+
+Motores de juego: Unity 🎮
+
+Otros intereses: Programación orientada a objetos, patrones de diseño y optimización de código
+
+🎮 Proyecto Destacado
+
+Actualmente estoy desarrollando un juego metroidvania con un sistema de combate basado en la respiración y una historia inspirada en la mitología japonesa. 🏯⚔️
+
+📫 ¡Conéctate conmigo!
+
+
+
+
+¡Siempre estoy abierto a colaborar y aprender cosas nuevas! 🚀
