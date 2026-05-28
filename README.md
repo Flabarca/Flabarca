@@ -14,7 +14,7 @@ Otros intereses: Programación orientada a objetos, patrones de diseño y optimi
 
 🎮 Proyecto Destacado
 
-Actualmente estoy desarrollando un juego metroidvania con un sistema de combate inspirado en souls y una historia inspirada en la mitología japonesa. 🏯⚔️
+Actualmente estoy desarrollando un juego metroidvania.
 
 📫 ¡Conéctate conmigo!
 
